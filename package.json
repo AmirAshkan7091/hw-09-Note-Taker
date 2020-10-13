@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amanda Atkins",
-  "license": "ISC",
+  "author": "amir Ashkan",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.1-security",
